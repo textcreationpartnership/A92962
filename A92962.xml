@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VII. articles drawen up against Lord Kimelton. M. Iohn Pimme. M. Densil Hollis. S. Artgur [sic] Haslerick. M. Hamden. M. Stroud. Charging them of high treason vvith his Maiestie his speech in the House of Commons Janu. 4, 1641. And a petition to the Kings Majesty.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92962</idno><idno type="EEBO-CITATION">99859125</idno>
+  <idno type="VID">111191</idno>
+  <idno type="EEBO-PROQUEST">2240860271</idno>
+  
+            <idno type="STC">Wing S2736</idno>
+            <idno type="STC">Thomason E131_3</idno>
+            <idno type="STC">ESTC R11756</idno>
+            <idno type="PROQUEST">99859125</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859125e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111191)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VII. articles drawen up against Lord Kimelton. M. Iohn Pimme. M. Densil Hollis. S. Artgur [sic] Haslerick. M. Hamden. M. Stroud. Charging them of high treason vvith his Maiestie his speech in the House of Commons Janu. 4, 1641. And a petition to the Kings Majesty.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hampden, John, 1594-1643 --  Early works to 1800.</term>
+               <term type="personal_name">Hesilrige, Arthur, --  Sir, d. 1661 --  Early works to 1800.</term>
+               <term type="personal_name">Holles, Denzil Holles, --  Baron, 1599-1680 --  Early works to 1800.</term>
+               <term type="personal_name">Manchester, Edward Montagu, --  Earl of, 1602-1671 --  Early works to 1800.</term>
+               <term type="personal_name">Pym, John, 1584-1643 --  Early works to 1800.</term>
+               <term type="personal_name">Strode, William, 1598 or 9-1645 --  Early works to 1800.</term>
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111191:1"/>
+            <p>VII. ARTICLES <hi>DRAWEN VP AGAINST</hi>
+               <list>
+                  <item>Lord Kimelton.</item>
+                  <item>M. Iohn Pimme.</item>
+                  <item>M. Densil Hollis.</item>
+                  <item>S. Artgur Haslerick.</item>
+                  <item>M. Hamden.</item>
+                  <item>M. Stroud.</item>
+               </list>
+            </p>
+            <p>CHARGING THEM OF High <hi>TREASON</hi> VVith his Maiestie his Speech in the House of Commons <hi>Janu.</hi> 4. 1641, <hi>And a Petition to the Kings MAJESTY.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. R.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:111191:2"/>
+            <pb n="1" facs="tcp:111191:2"/>
+            <head>ARTICLES, OF HIGH TREASON, AND other High misdemeanors, as they are aledged against the Lord <hi>Kimbelton,</hi> M. <hi>Pym▪ &amp;c.</hi>
+            </head>
+            <p n="1">I. <seg rend="decorInit">F</seg>IRST, they have Traterously endevo<g ref="char:EOLhyphen"/>red to subvert the fun<g ref="char:EOLhyphen"/>damentall Lawes, and Government of the Kingdome of <hi>England,</hi> to deprive the KING of his Royall power, and to place Subjects in arbitrarie and Ty<g ref="char:EOLhyphen"/>ranicall
+<pb n="2" facs="tcp:111191:3"/> power over the Lives, Liber<g ref="char:EOLhyphen"/>ties, and estates of his Maiesties ledge people.</p>
+            <p n="2">II. That they have endevored to lay many false Aspertions upon his Ma<g ref="char:EOLhyphen"/>iesties government, to allyenate the Affections of his People, and to make his Maiesty Odious unto them.</p>
+            <p n="3">III. That they have endevored to draw his Maiesties late Army to the diso<g ref="char:EOLhyphen"/>bedience of his Maiesties Command, and to side with them in their Trate<g ref="char:EOLhyphen"/>rous designes.</p>
+            <p n="4">
+               <pb n="3" facs="tcp:111191:3"/>IV. That they have Traterously in<g ref="char:EOLhyphen"/>vested and incouraged a Foraigne power, to invaid his Maiesties King<g ref="char:EOLhyphen"/>dome of <hi>England.</hi>
+            </p>
+            <p n="5">V. That they have Traterously en<g ref="char:EOLhyphen"/>devored to subvert the Right, and very being of <hi>Parliaments.</hi>
+            </p>
+            <p n="6">VI. For the comploting of their Tra<g ref="char:EOLhyphen"/>terous D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>signes: They have endevo<g ref="char:EOLhyphen"/>red as farre as in them lay, by Force and Terror to compel the Parliament to Ioyn with them in their Traterous
+<pb n="4" facs="tcp:111191:4"/> designes, and to that end have actu<g ref="char:EOLhyphen"/>ally raysed, and Countinanced tu<g ref="char:EOLhyphen"/>mults against the King and <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p n="7">VII. That they Traterously conspired to levey, and have actually leveyed power against the King.</p>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:111191:4"/>
+            <head>
+               <hi>His Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esties going to the Parliament house on Tuesday</hi> 4. Ianuar: 1641.</head>
+            <p>ON Tuesday▪ the 4. of Ianuary, 1641. the Kings Maiestie went to Westmin<g ref="char:EOLhyphen"/>ster, from his Pallace at White H<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l, with many Attendants and when his Ma<g ref="char:EOLhyphen"/>iestie came to Westminster Hall, the way was commanded to be cleared, which was done accordingly. And at the foote of the staires going up to the House of Commons the <hi>Marques Hambleton</hi> met his Maiestie and attended him to the Hous.</p>
+            <p>When his Maiestie was come into the hous M. Speaker rose out of his Chaire▪ and his Maiestie sate thier himself, and before them spake to this eff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, <hi>demaunding where</hi> M. Pim <hi>and some others were▪</hi> and enquiring for them and not finding them there, <hi>expressed himself to be displeased that they were not there, desiring hat they may presently be Apprehended.</hi>
+            </p>
+            <pb n="6" facs="tcp:111191:5"/>
+            <p>His Majestie having herein exp<g ref="char:EOLhyphen"/>rest himself, departed again from there House and returned to Whitehall: And imediately the hovse Rejorned until the morrow being <hi>Wednesday,</hi> at Noone.</p>
+         </div>
+         <div type="petition">
+            <head>TO THE <hi>KINGS</hi> MOST EXCELLENT <hi>MAJESTIE</hi>
+            </head>
+            <p>HVmbly beseecheth that your most Excellent <hi>Majestie,</hi> would be, Gratiously pleased to meditate on that place of Scripture▪ <hi>writtn,</hi> 1. Kings. 12. 15, 16. Wherefore the King harkened not unto his people: for the cause was from the Lord, that he might performe his saying, which the Lord spake by <hi>Ahija</hi> thf <hi>Shulonite</hi> vnto Ierob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>om the sonne of <hi>Nebat.</hi>
+            </p>
+            <p>So when <hi>Israel</hi> sawe that the King harkned unto them, the people answered the Keng, saying, what Portion have we in <hi>David?</hi> neither have we Porti<g ref="char:EOLhyphen"/>on in the sonne of <hi>Iesse:</hi> to yovr tents, O <hi>Isoael:</hi> now see to thine owne, &amp;c.</p>
+            <lg>
+               <l>The Lord protect, guide, and direct Yovr Gratiovs MAJESTIE.</l>
+               <l>And increase the number of your faithful Loyall Subiects</l>
+            </lg>
+            <closer>AMEN</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
